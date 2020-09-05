@@ -2,7 +2,7 @@
 
 ## Overview
 
-A Node.JS script for Discord users to personalize and customize their profile status with a banner similar to when they are playing a game.
+A [Node.JS](https://nodejs.org/en/) script for [Discord](https://discord.com/) users to personalize and customize their profile status with a banner similar to when they are playing a game.
 
 ## Prerequisites
 
