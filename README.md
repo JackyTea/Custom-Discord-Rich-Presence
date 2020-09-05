@@ -81,7 +81,7 @@ Here is a usage scenario with a mock client ID:
 node index.js 123456789123456789 "Browsing Youtube..." large "Google Chrome v.7" youtube "Youtube" 
 ```
 
-![Example Image](demos/example.jpg)
+![Example Image](./demos/example.jpg)
 
 Here is a usage scenario with a mock client ID and a set description:
 
@@ -89,4 +89,4 @@ Here is a usage scenario with a mock client ID and a set description:
 node index.js 123456789123456789 "Browsing Youtube..." large "Google Chrome v.7" youtube "Youtube" "Woah a description"
 ```
 
-![Example Image 2](demos/example2.jpg)
+![Example Image 2](./demos/example2.jpg)
